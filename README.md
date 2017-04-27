@@ -3,4 +3,4 @@ An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hour
 
 1. 给nginx增加注释
 2. 对nginx使用的技术进行文档化
-3. 提供一些有用的nginx插件
+3. 提供一些有用的nginx插件.
